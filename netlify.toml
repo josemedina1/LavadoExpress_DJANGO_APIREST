@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/core/templates/core/index.html" 
+  status = 200
